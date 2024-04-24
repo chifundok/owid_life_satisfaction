@@ -1,5 +1,6 @@
 ---
 title: "Share of people who say they are happy, 2022"
+author: "Chifundo Kanjala"
 output: 
   html_document:
     theme: united
