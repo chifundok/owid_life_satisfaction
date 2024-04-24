@@ -1,5 +1,5 @@
 ---
-title: "Self-reported life satisfaction, 2011 to 2022"
+title: "Share of people who say they are happy, 2022"
 output: 
   html_document:
     theme: united
@@ -29,7 +29,7 @@ cantril <-
   rename(Country = Entity)
 ```
 
-Share of people who say they are happy, 2022
+
 Share of people who respond they are "very happy" or "rather happy" to the question "Taking all things together, would you say you are … ?"
 
 # {.tabset}
